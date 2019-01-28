@@ -1,5 +1,8 @@
 <% @ LANGUAGE="VBSCRIPT" %>
+<<<<<<< HEAD
 <!--#include file="includes/conexao.asp" -->
+=======
+>>>>>>> 43e5791d798376646cc5baf79c701e919d7211f5
 <!DOCTYPE html>
 <html lang="en">
 <head>
